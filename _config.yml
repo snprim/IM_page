@@ -21,7 +21,8 @@ github_username: snprim
 
 # Build settings
 markdown: kramdown
-theme: minima
+# theme: minima
+theme: Midnight
 gems:
   - jekyll-feed
 exclude:
