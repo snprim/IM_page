@@ -4,5 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 # title: Shih-Ni Prim | NCSU Statistics
-title: Shih-Ni Prim | WFU Statistical Sciences
+title: Inferential Models
 ---
